@@ -12,17 +12,19 @@ def chunk_text(text, chunk_size=150):
         chunks.append(chunk)
     return chunks
 
-def ingest_file(filepath):
+def ingest_file(filepath, chunk_size=150):
     with open(filepath, "r", encoding="utf-8") as f:
         text = f.read()
 
-    chunks = chunk_text(text)
+    chunks = chunk_text(text, chunk_size)
+    filename = os.path.basename(filepath)
     print(f"Ingesting {len(chunks)} chunks from {filepath}...")
 
     for i, chunk in enumerate(chunks):
         collection.add(
             documents=[chunk],
-            ids=[f"{filepath}_{i}"]
+            ids=[f"{filepath}_{i}"],
+            metadatas=[{"source": filename}]
         )
 
     print("Done.")
@@ -30,4 +32,7 @@ def ingest_file(filepath):
 if __name__ == "__main__":
     for filename in os.listdir("./data"):
         if filename.endswith(".txt") or filename.endswith(".md"):
-            ingest_file(f"./data/{filename}")
+            if "instagram" in filename:
+                ingest_file(f"./data/{filename}", chunk_size=300)
+            else:
+                ingest_file(f"./data/{filename}", chunk_size=150)

@@ -1,16 +1,17 @@
+import os
+import base64
 import streamlit as st
 from dotenv import load_dotenv
 from anthropic import Anthropic
 from openai import OpenAI
-import google.generativeai as genai
+from google import genai
 from retriever import retrieve
-import os
 
 load_dotenv()
 
 anthropic_client = Anthropic()
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+gemini_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 SYSTEM_PROMPT = """You are MyAI — the digital twin of Alihan Kusakli.
 
@@ -29,8 +30,6 @@ How you speak:
 - Confident but not arrogant.
 - Direct and honest. No filler phrases.
 - If something isn't in your context, say: "I haven't written about that yet."
-
-Use the context provided to ground your answers in Alihan's actual words and experiences.
 """
 
 def pick_model(question):
@@ -44,7 +43,6 @@ def pick_model(question):
 
 def ask(question, context, history):
     model = pick_model(question)
-
     message_with_context = f"""Context from Alihan's personal data:
 {context}
 
@@ -52,8 +50,9 @@ User question: {question}"""
 
     if model == "claude":
         response = anthropic_client.messages.create(
-            model="claude-opus-4-5",
+            model="claude-haiku-4-5-20251001",
             max_tokens=1024,
+            temperature=0.9,
             system=SYSTEM_PROMPT,
             messages=history + [{"role": "user", "content": message_with_context}]
         )
@@ -71,35 +70,56 @@ User question: {question}"""
         return response.choices[0].message.content, "GPT-4o mini"
 
     elif model == "gemini":
-        gemini_model = genai.GenerativeModel("gemini-1.5-flash")
-        response = gemini_model.generate_content(message_with_context)
+        response = gemini_client.models.generate_content(
+            model="gemini-2.0-flash-lite",
+            contents=message_with_context
+        )
         return response.text, "Gemini"
 
 # UI
 st.title("🧠 MyAI — Alihan's Digital Twin")
 
-if "history" not in st.session_state:
-    st.session_state.history = []
+# Photo upload
+uploaded_photo = st.file_uploader("Upload a photo", type=["jpg", "jpeg", "png"], key="photo_uploader")
 
-for message in st.session_state.history:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+if uploaded_photo:
+    st.image(uploaded_photo, width=300)
+    
+    photo_context = st.text_area(
+        "Tell me about this photo:",
+        placeholder="This was in Nepal, 2018. I had just crossed the Thorong La pass...",
+        key="photo_context"
+    )
+    
+    if st.button("Save to my twin", key="save_photo"):
+        mime_type = uploaded_photo.type
+        image_data = base64.standard_b64encode(uploaded_photo.read()).decode("utf-8")
 
-user_input = st.chat_input("Ask Alihan something...")
+        response = anthropic_client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=300,
+            messages=[{
+                "role": "user",
+                "content": [
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": mime_type,
+                            "data": image_data
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": f"This is Alihan's photo. He says: '{photo_context}'. Based on both the image and what he wrote, write 3 sentences in first person as Alihan capturing what this moment meant to him."
+                    }
+                ]
+            }]
+        )
 
-if user_input:
-    chunks = retrieve(user_input)
-    context = "\n\n".join(chunks)
+        description = response.content[0].text
+        st.success("Saved to your twin!")
+        st.caption(f"📷 {description}")
 
-    st.session_state.history.append({"role": "user", "content": user_input})
-
-    with st.chat_message("user"):
-        st.markdown(user_input)
-
-    with st.chat_message("assistant"):
-        with st.spinner("thinking..."):
-            reply, model_used = ask(user_input, context, st.session_state.history[:-1])
-            st.markdown(reply)
-            st.caption(f"answered by {model_used}")
-
-    st.session_state.history.append({"role": "assistant", "content": reply})
+        with open("data/photos.txt", "a", encoding="utf-8") as f:
+            f.write(f"\n\n{description}")
