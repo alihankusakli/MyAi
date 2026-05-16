@@ -9,9 +9,10 @@ from retriever import retrieve
 
 load_dotenv()
 
-# Auto-ingest if processed folder is empty or missing
+# Always rebuild ChromaDB from data/ on startup
 import subprocess
-subprocess.run(["python", "ingest.py"])
+result = subprocess.run(["python", "ingest.py"], capture_output=True, text=True)
+print(result.stdout)
 
 anthropic_client = Anthropic()
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
