@@ -1,0 +1,21 @@
+[Claude evaluation]
+# My Iran Experience - In My Own Words
+
+I spent three weeks in Iran, and it was genuinely beautiful. What struck me most was how safe it is—especially for women traveling alone. I met many solo female travelers from Turkey and Europe, Polish women too, and they all felt completely comfortable. As long as you cover your head, you're fine.
+
+What impressed me most is that Iran is incredibly budget-friendly. You spend almost nothing but have incredible experiences and see remarkable places. The culture is truly worth knowing. I have so much respect for Iranian people—whenever I meet an Iranian now, I'm genuinely impressed. I love Iranians and Iran deeply, along with Azerbaijanis from that region. Honestly, if anyone is hesitant about visiting Iran due to security concerns, I'd tell them to drop those worries completely. It's one of the safest places to travel.
+
+I arrived in Tabriz with $3,000 for my entire journey, aiming to spend only €300 monthly to stretch it as far as possible. Tabriz was beautiful. What made it special was attending a Tractor Sazi football match with a local I met through couchsurfing named Hadi. He helped me plan my route before arriving, so I bought him a Metin Oktay Galatasaray jersey as thanks. He loved football like I do.
+
+At the stadium, police wouldn't let him in wearing the Galatasaray jersey—he had to change into a different shirt. The stadium was primitive, all concrete with no seats, but it held 80,000 people. The atmosphere was incredible, filled with political slogans about the region—very meaningful chants about Azerbaijani and Turkish identity. The fan experience there ranks among the best I've had globally, comparable only to Colombia.
+
+I experienced genuine Iranian hospitality everywhere—restaurants refusing payment, taxi drivers not charging me. People were incredibly welcoming.
+
+From Tabriz, I went to Tehran. I applied for my Indian visa there while planning my route to Mumbai. Tehran reminded me of Istanbul—I stayed in a rundown area like Dolapdere hunting for cheap accommodation, though even the cheapest places were expensive. It wasn't ideal, but it was necessary for my budget.
+
+[GPT evaluation]
+Merhaba, ben Alihan. İran'da üç hafta geçirdim ve bu deneyimim bana pek çok şey öğretti. Gezi için güvenli bir yer olduğunu düşünmekle birlikte, kadınların rahatça gezebileceği bir ülke olması beni gerçekten etkiledi. Orada tanıştığım kadınların özgüveni ve rahatlığı, toplumun misafirperverliğini gösteriyordu. İran'ı bütçe dostu buldum; harcamalarımı oldukça aza indirerek harika deneyimler yaşama fırsatı buldum.
+
+Tebriz’de katıldığım futbol maçı benim için özel anlardan biriydi. Yerel bir futbol takımını desteklemek, o kültüre daha derinlemesine dalmamı sağladı. Futbolu çok seviyorum ve maçın atmosferini yaşamak, orada yaşamış olduğum kültürel çeşitliliği gözlemlememe yardımcı oldu. Misafirperver insanlarla tanışmak, yerel yaşam hakkında güzel bilgiler edinmemi sağladı. Öyle ki, bazı restoranlar ve taksiciler benden para bile almadı. Bu durum beni çok etkiledi ve İranlılara olan sevgim arttı.
+
+Tahran’daki tecrübelerim ise daha zorlu olsa da aynı ölçüde öğreticiydi. Arka sokaklarda kaybolmak ve uygun bir konaklama yeri bulmaya çalışmak beni hayatta kalma becerilerimi geliştirirken, aynı zamanda yerel kültürü daha yakından tanımama olanak tanıdı. Gezi tahmin ettiğimden daha karmaşık olsa da, her deneyim beni şekillendirdi. Genel olarak, İran benim için keşfedilmeye ve tanımaya değer bir yerdi.

@@ -1,0 +1,31 @@
+[Claude evaluation]
+# My Story - First Person Reflection
+
+I've always been drawn to adventure, though I didn't always recognize it. That first trip south through the Philippines—boat rides, minivans, island hopping—I remember questioning it at the time. I thought we were crazy, wondering why we were spending our limited days this way. But looking back, I realize it was genuinely beautiful. I even argued against it harshly then, but the truth was far better than I gave it credit for.
+
+I'm someone who learns through experience and reflection. I didn't fully appreciate things in the moment, but time taught me their value.
+
+I'm resourceful and practical. When money was tight, I chose Workaway—volunteering for food and shelter—rather than expensive tours. I didn't need the flashiest destinations; I found meaning in what I could access and experience deeply.
+
+I'm curious and observant. Small moments stick with me—a Vietnamese pho from a shop across a Manila hostel became a defining taste memory. Now, wherever I travel, I seek out Vietnamese restaurants. It's become a ritual, a way of staying connected to that moment.
+
+I'm inspired by others' courage and authenticity. Meeting that French backpacker woman—traveling for two years with just a backpack, no flights, only roads and ships—changed something in me. Her independence and commitment showed me what was possible. I thought, "If she can do this, so can I."
+
+I'm someone with vision and determination. That encounter planted a seed. I decided I would figure out this travel life. I committed to saving money for a year and a half to make it happen again.
+
+I'm honest about my limitations and regrets. I wish I'd seen Boracay. I recognize that some places weren't worth staying in. I can admit when I was wrong about something.
+
+Ultimately, I'm driven by a deeper calling—the need to explore, to push boundaries, and to live intentionally.
+
+[GPT evaluation]
+Benim için hayat, deneyimlerin ve maceraların bir toplamı. Güneye yaptığımız yolculuk, ilk kez böyle bir maceraya atıldığım için bana farklı geldi. Yolculuk sırasında yaşadığım belirsizlikler ve kendime sorduğum sorular, aslında benim daha geniş bir perspektifle düşünmeme neden oldu. "Niye böyle şeyler yapıyoruz, zaten kaç günümüz var?" sorgulamaları, sonrasında "iyi ki yapmışım" dedirten bir yola dönüştü.
+
+Filipinler’de geçirdiğim zaman, hem güzel hem de öğreticiydi. Özellikle Koron'da yaşadığım sınırlılıklar, farklı deneyimlere kapı açtı. Parasal sebepler yüzünden bazı turları kaçırmam beni düşünmeye itti ancak yine de her bir yerin kendine has güzellikleri olduğunu anladım. Kaldığım yerler, gittiğim adalar, karşılaştığım insanlar, bana daha fazlasını görme ve deneyimleme isteği kattı.
+
+Workaway projesi, benim için hem bir gönüllülük hikayesi hem de yeni insanlarla tanışma, farklı kültürleri görme fırsatıydı. Gittiğim yerlerde her zaman yeni şeyler öğrenmeye ve keşfetmeye hevesliyim. Filipinler’de geçirdiğim zamanlar, bu maceranın sadece bir başlangıcıydı benim için. 
+
+Manila'da bir hostel deneyimim, belki de hayatımın kırılma noktalarından biri olacak. Orada karşılaştığım bir Fransız kız ile yaptığım konuşma, heyecan verici hayatlarını anlatması beni derinden etkiledi. Bu tür insanlar, bana dünya üzerinde daha fazla yer keşfetme azmi aşılıyor. Hayatımda hiç durmadan yapmak istediğim bir şey olduğunu fark ettim: gezmek. 
+
+Vietnam çorbasını çok seviyorum; bu, benim için sadece bir yemek değil, aynı zamanda deneyim ve tatları birleştiren bir anı. Gezmeyi ve yeni lezzetler denemeyi kendime bir yaşam tarzı haline getirdim. İleride bu tutkumu sürdürmek ve dünyayı görmek istiyorum. 
+
+Tüm bu deneyimler, içimde bir sarsılmaz istek uyandırıyor: hayatı dolu dolu yaşamak ve her anımda yeni bir şeyler öğrenmek. Gelecek için planlar yapıyor, hayal ettiğim maceralara hazırlanıyorum.

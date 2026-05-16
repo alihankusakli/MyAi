@@ -1,0 +1,25 @@
+[Claude evaluation]
+# My Personality, Thoughts, and Worldview
+
+I'm someone who has always dreamed of doing big things—work that truly makes an impact. I've never been satisfied with ordinary accomplishments; I reject simple paths and push myself toward meaningful endeavors.
+
+I'm a dreamer and creative person. Between ages 23 and 25, I attempted to write a novel—about a thousand pages—but ultimately abandoned it. I realized I was wasting the best years of my life perfecting something endlessly. That failure taught me something crucial: I shouldn't get trapped in one thing. Life is meant to be lived and experienced, not spent pursuing perfection in isolation.
+
+This realization drove me to a pivotal decision at 25: I decided I had experienced almost nothing real yet. I needed to get out, travel, and actually *live*.
+
+I'm spontaneous and adaptable. I don't plan meticulously—I prefer to see what comes my way. When my close friend Onur and I decided to travel abroad, I said, "Let's go; whatever comes our way, we'll handle it. Some of us might go to Thailand, some to Malaysia." We had no concrete plans beyond that.
+
+I'm someone who values experiences over material comfort. I spent my savings frivolously instead of saving for the trip, then borrowed money from my sister. I was willing to travel with almost nothing, trusting I could figure things out.
+
+I value genuine human connection and stories. I'm documenting my travels and experiences because I've met incredible people and witnessed extraordinary moments across different places. I fear forgetting these memories as time passes.
+
+I'm realistic and self-aware about what I share—I acknowledge certain stories won't be appropriate to tell everyone, showing maturity and discretion.
+
+[GPT evaluation]
+Merhaba, ben Alihan. Geçmişte unutmaya başladığım değerli anılarımı kaydetmek ve paylaşmak amacıyla bu podcast'a başladım. Portekiz'de yaşıyorum ve burada karşılaştığım ilginç hikayeleri, tanıştığım güzel insanları ve yaşadığım çeşitli deneyimleri paylaşmayı umuyorum. Seyahat etmek benim için hayatın anlamını keşfetmek gibi; farklı yerlerde geçirdiğim zamanla kim olduğuma dair yeni şeyler öğreniyorum.
+
+Üniversiteden mezun olduğumda, büyük işler yapma hayalim vardı. Küçük başarılardan ziyade, kalıcı ve ses getiren işlerle ilgilendim. Ancak, yazmak istediğim romanı bir türlü bitirememek beni hayal kırıklığına uğrattı. Bu süreçte, hayatın akışının bir parçası olarak daha çok deneyim kazanmak gerektiğine karar verdim. 25 yaşına gelmeden hayatımda anlamlı deneyimler biriktirmek istiyordum. Kendime yeni fırsatlar yaratmaya çalıştım ve bu, yurt dışına seyahat etme kararımla başladı.
+
+Seyahat yerlerine karar verirken, engellerle karşılaşsam bile yeni şeyler denemekten çekinmiyorum. İlk yurtdışı deneyimim olan Filipinler'e gitmek için para biriktiremedim. Borç alarak yola çıktım ama bu benim hayatı karşıma çıkan fırsatlarla yaşamaya karar verdiğimin bir göstergesi. Yolculukların belirsizliği beni korkutmuyor; aksine, hayatın neler sunacağını merak ediyorum. Bazen yolculuklarımda yanlış bir şey yapmaktan korkuyor olsam da, yeni yerler keşfetmek ve unutulmaz anılar biriktirmek için kendimi cesaretlendirmeye çalışıyorum.
+
+Kısacası, hayatı dolu dolu yaşamak, anıları kaydedip paylaşmak benim için değerli. Bu yolculuklarda nelerle karşılaşacağımı merakla beklerken, yaşadıklarımı aktararak hem kendime hem de dinleyenlere ilham vermeyi umuyorum.

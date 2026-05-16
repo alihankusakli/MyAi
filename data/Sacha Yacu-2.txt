@@ -1,0 +1,35 @@
+[Claude evaluation]
+# My Story: Trapped in Paradise During the Pandemic
+
+When Covid hit in March 2020, I was in Ecuador—the last place I wanted to be stuck. I'd planned to spend minimal time there, but suddenly I couldn't leave. The borders closed, travel between cities was banned. I was with John, Melina, Lana, and others. We couldn't move around freely, so when Melina contacted a wildlife sanctuary asking if we could stay, and they said yes, I found myself on a journey to Sashayoku that became one of the most unforgettable periods of my life.
+
+I spent about three months there. My situation was difficult—no internet, isolated in the forest. The consul in Quito said rescue flights wouldn't happen. A Turkish man named Yusuf Bey helped coordinate a WhatsApp group for Turks in Ecuador, worrying about me since I was "in the forest with no internet." He was right to worry—I was genuinely cut off from the world.
+
+We lived with the Alvarez family—Andrea, her son Jeremy, their mother Marcia, and the farmhands like Julio. There was also Jarno, a Dutch guy. The Germans and French volunteers all got evacuation flights; we stayed. Our rent was 50 dollars a week—just enough to cover our food—when the normal rate was 200.
+
+**I was one of the luckiest people during Covid.** While everyone else was trapped at home, I was feeding monkeys in the Amazon. I never felt confined. Every direction was forest, trees, rain, clouds, bird calls at dawn. It was constant and liberating.
+
+We worked as volunteers. Our job was simple: feed the animals—taking fruit through the forest for hours, using machetes, learning which plants went where. That's where I first saw a tarantula. I was terrified. But they told me they're not venomous, so I let one crawl on my clothed arm. I overcame one of my deepest fears that day.
+
+Electricity came from a generator for only two hours daily. We had one recorded film—*The Grand Budapest Hotel*—which I watched five or six times. I used my phone as a flashlight mostly. For weeks, we had no real connection to the outside world. Our only communication was weekly WhatsApp messages passed through someone who could reach WiFi in town. I'd send voice notes and messages; they'd return with news from Turkey. "What are you doing during Covid?" "I'm feeding monkeys."
+
+I was vegetarian for 2.5 months—not by choice, but because there was no refrigerator, so we couldn't keep meat. When I left and ate a hamburger, my body rejected it. I'd become physically different.
+
+Our afternoons meant real work. We'd harvest fruit, collect sugar cane for the animals, plant bananas, or clear land. Twenty of us with machetes and axes would clear massive areas for organic banana cultivation. I used a double axe—it looked cool. The family farmed sustainably; they'd clear an area, farm once, then let it return to forest naturally because heavy rainfall would reclaim it quickly anyway.
+
+I loved understanding the forest. I'd search for yuka—a plant I never quite mastered identifying. We ate tree leaves that tasted good but took thirty years to mature and were rare, so we had to harvest carefully. There was cacao—my true passion.
+
+**Cacao trees are beautiful.** Their branches turn purple, pink, fuchsia, yellow—brilliant, vibrant colors with glossy green leaves. You can't just pick the branches; you must cut them with pruning shears or you damage the tree. Then you harvest the fruit, cut it open, extract the beans, dry them, grind them. It's a long, complex process. I became obsessed with it.
+
+We had one white cacao tree. White cacao isn't just milk and cream—it contains actual white cacao. We'd roast those beans like chips, crush them with hot chili, and eat them. It was incredible—the most delicious thing I ate in all of Ecuador.
+
+One day, while enthusiastically harvesting cacao with my machete, I cut the tip of my finger off completely. I was too excited, too careless. We bandaged it. Four years have passed. The physical wound healed, but there's still a hollow sensation—it will never feel quite the same again. I carry this permanent damage from my passion for cacao.
+
+That's who I am. I throw myself into experiences fully. I overcame my fears. I learned to live without modern comfort. I found joy in work
+
+[GPT evaluation]
+Mart 2020'de, COVID-19 pandeması patlak verdiğinde Ekvador'daydım. Orada kalmak istemediğim bir yerdi, ama olaylar beni orada kapana kıstı. Giderek bir grup arkadaşla vahşi hayvan koruma merkezine sığındık. Bu tecrübe, hayatımdaki en unutulmaz zamanlardan biri oldu. 3 ay boyunca ormanın derinliklerinde, doğayla iç içe yaşadım. İnternetsiz, elektrik kesintileriyle baş etmek zorunda kalırken, farklı bir yaşam tarzı benimsedim; hayvanlara bakmak, tarımda çalışmak ve doğanın döngüsünü öğrenmek gibi.
+
+Pandemi döneminin benim için iyi geçtiğini düşünüyorum; evde tıkanmadım, aksine hayvan besleyerek ve açık havada kalarak geçirdim. Doğanın güzelliklerini keşfettim. Tarantula gibi korkutucu ama bir o kadar da muhteşem hayvanlarla tanıştım, bu sayede korkularımı yendim. 
+
+Yemek yedim, bina içinde değil de doğada olmayı deneyimledim. Vejetaryen beslenmek zorunda kaldım; bu süreçte doğayla olan bağlantımı güçlendirdi. Ekvador'da çok şey öğrendim; zarif kakao ağaçlarını tanımak, doğal döngüleri anlamak ve hayvanların bakımı gibi... Bu macera sonucunda, doğayı ve onun sunduklarını daha çok takdir etmeye başladım. Kendi konfor alanımdan çıkmanın ve belirsizlik içinde kalmanın bir fırsat sunduğunu gördüm. Bu deneyim beni daha güçlü, daha meraklı ve daha uyumlu bir birey yaptı.

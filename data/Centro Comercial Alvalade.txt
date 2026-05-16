@@ -1,0 +1,53 @@
+[Claude evaluation]
+# My Story: A Journey of Self-Discovery
+
+My name is Alihan, and I'm recording this from my room in Lisbon. I'm doing this because I realized that 8.5 years have passed since my first trip to the Philippines in 2016, and my memories are fading. I want to preserve them, and if anyone who knows me wants to understand who I am, they can listen here.
+
+I've tried documenting my life through writing and video before, but I failed both times. This is my third attempt—through voice. At least I'm getting better at it. I'm recording on my phone with no professional equipment, and I probably never will invest in that.
+
+## My Years Before Travel (2013-2016)
+
+After graduating from university in 2013, I didn't know what I wanted to do with my life. All I knew was that I desperately wanted to write. I became obsessed with writing a novel—day and night, thousands of pages. I'd write, delete, rewrite endlessly for two years while reading voraciously to gather knowledge. But I failed. The book was amateurish, poorly written. That failure devastated me, but it forced me to realize something important: *I couldn't keep living in my head. I needed to actually live.*
+
+I was losing time. I was falling behind. But I thought I could catch up.
+
+Even now, 11 years later, I haven't completely abandoned that book. It still sits in the corner of my mind. I've finished the structure, the introduction, the development—the framework is complete. Maybe one day inspiration will strike and I'll finish it. Maybe.
+
+During this period, I also did my mandatory military service—six months in Ankara. It was difficult.
+
+## The Job Search & Photography
+
+After military service, I needed to work, but I knew nothing. I had no idea what job to pursue, where to apply, or what I was capable of doing. I had a degree in Radio, Television, and Cinema from Ankara University, but I felt lost.
+
+I was physically weak, so I couldn't do labor-intensive work. My roommate Oflú helped me get a job doing photography during election periods. I made decent money for those times—the exchange rate was 1 Turkish Lira to 2.5 dollars. That money became crucial.
+
+## The Decision to Travel
+
+A friend named Onur and I had a conversation about learning English. We decided to go abroad to study it. For me, it made sense because my novel was set in a utopian foreign country, so I had already been dreaming of traveling internationally.
+
+We looked for affordable English-speaking countries. Fiji came first, but the flights were too expensive. Onur suggested India, but I refused—I had prejudices, thinking it was dirty and I couldn't live like that. We settled on the Philippines.
+
+We booked round-trip flights to Manila with KLM for $467—I think it was March 2016. We had about three months to prepare. I couldn't find work during that time and spent all the money from my photography job. When the flight date came, I had nothing left.
+
+My older sister—who has always been my greatest financial supporter—gave me about $400 so I could go and travel. She told me to pay her back when I returned. That money was supposed to cover my month-long trip. Onur was in a better financial position because he had been working steadily.
+
+## The First Flight
+
+I remember something important: I had never flown before in my life. The first time I ever got on a plane was this trip to the Philippines. Our route was Istanbul to Amsterdam, then Amsterdam to Taipei, then to Manila.
+
+The flight attendant interrogated us suspiciously, asking if we were trying to escape to Europe. We had to convince her we were just tourists with return tickets, that we'd be back in a month.
+
+The journey took about 12 hours. We made it to the Philippines.
+
+That's where I'll end this introduction. In the next episode, I'll tell you about Onur's story and share the memories I still have from the Philippines.
+
+[GPT evaluation]
+Merhaba, ben Alihan. Bu podcast'i Lisbon'daki odamdan yapıyorum ve bu fırsatı değerlendirip hayatımın bazı önemli kesitlerini paylaşmak istiyorum. Özellikle 2016'dan itibaren başlayan seyahatlerimle ilgili anılarımı kalıcı kılmak, tanıdıklarım dışında birinin beni tanımak istemesi durumunda bir pencere açmak istiyorum.
+
+Yazma tutkum, üniversiteden mezun olduktan sonra gelişti. Geçen süre zarfında yazmak için çok çalıştım; fakat birçok defa başarısız oldum. Kitap yazma çabalarım bana zaman kaybettirdi gibi hissetsem de, bunu aslında yaşamanın öncesinde bir süreç olarak görüyorum. Hayatıma yeni bir yön vermem gerektiğine inanıyorum ve bu yüzden seyahat etmeyi seçtim. Filipinler'e gitme fikrini, aslında İngilizce öğrenme hevesimle birleştirip hayata geçirdim. Bu yolculuk benim için ilk kez yurt dışına çıkmak, yeni kültürler tanımak ve belki de hayallerimi gerçekleştirme yolunda bir adım oldu.
+
+Amatör bir yazıcı olmama rağmen hâlâ içimde yazma isteği var. Hayatım boyunca gerçekleştirmek istediğim şeylerden biri olan kitabımı tamamlama hayalim, aklımın köşesinde kalmaya devam ediyor. Eğer bir gün bunun için yeterli ilhamı bulursam, bu hayali gerçekleştirmek istiyorum.
+
+Hayatımın farklı dönemlerinde karşılaştığım zorluklar, beni daha güçlü bir insan yaptı. Fiziksel zayıflığımla yüzleşmek, iş ararken yaşadığım belirsizlikler ve hayatımı yönlendirmek için aldığım kararlar, beni ben yapan olaylar. Annem ve ablam gibi destekleyici insanlarla çevrili olmanın önemini biliyorum; onların yardımıyla hayalini gerçekleştirmek üzere yola çıktım.
+
+Sonuç olarak, deneyimlerimden öğrendiğim; hayatı dolu dolu yaşamak ve kendi hikayemi yazma cesaretini gösterme gerekliliği. Her seyahatim, yazma tutkumun beslenmesine, kendimi keşfetmeme yardımcı oluyor. Gelecekte bu hikayelerimi daha iyi bir biçimde paylaşmayı umuyorum.

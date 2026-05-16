@@ -1,0 +1,37 @@
+[Claude evaluation]
+# My San Cristobal Experience
+
+San Cristobal de las Casas is genuinely the most special place in all my travels. It's where I spent the longest, where I experienced the most interesting times, and where I transformed myself in countless ways. The people I met there remain my closest friends, and we stay in constant touch, always looking for the smallest opportunities to see each other.
+
+Most of the significant things I've added to my life actually started in San Cristobal, not in India as I might have expected. Yoga, spiritual practices—all of it began there. I've eaten the most delicious cheese and bread of my life there, both made by a French owner. The finest French pastries too. San Cristobal holds a completely different place in my heart and my life. There's a constant pull: *I need to return to San Cristobal. I need to go back.*
+
+I've returned three times. The first stay lasted nearly three months, the second a month, the third two weeks. Each time I returned after needing something, and each time San Cristobal gave me exactly what I was looking for. It never let me down. It healed me, developed me, and fundamentally shaped who I am today.
+
+I stayed in a hostel with an incredible group. There was Kiki, a Mexican brother of mine, still my dear friend—we keep in touch even though he's now working in the UAE. Hector was my night-life friend. With Nimay and Louis, an Argentine couple, I explored spiritual things: nature, free activities. I'd wake up and spend time with them, then go out with Hector in the evenings. We all lived under one roof but formed different groups based on our affinities.
+
+I learned to cook there, something I'd never done before. Louis especially taught me so much—constantly asking why I smoked, why I didn't exercise. He was deeply invested in health and how I lived my life. Nimay and Louis were traveling on almost nothing, yet they'd traveled extensively. Louis is now in Argentina, Nimay in Australia. When Louis later called me to come work with him in America, I hesitated. I was afraid. San Cristobal felt too good to leave, and honestly, I was scared of what might happen if I entered America illegally. So I stayed.
+
+I met Emel through Tinder—a Turkish-American musician there. She introduced me to Elif and Soner, other Turks. Elif cooked beautifully; both were meticulous people. We'd have long conversations about everything—their experiences in Colombia and Peru, my time in Asia and Ecuador. We'd visit each other weekly and talk endlessly. It was genuine connection.
+
+Then Ulaş appeared in our circle—an incredibly talkative, helpful person who later became crucial in my life. He's the reason I eventually came to Portugal, honestly. I owe him enormous gratitude. I also met Gül and her boyfriend David, a Catalan from Barcelona. Both wonderful people I still stay in touch with.
+
+There was Sofia, the most spiritual person I've ever met. Conversations with her brought genuine peace. She came from a Greek family that migrated to Switzerland, with roots in Izmir. She sang the most beautiful spiritual songs.
+
+The hostel was full of fascinating people living unconventional lives. There were two German women traveling by horse across the Americas—a real traveling circus, taking decades to journey from the southern tip of Argentina to Mexico's north. I considered joining them for months, but I couldn't leave San Cristobal. That's what was strange about it.
+
+During the Covid period, San Cristobal had no tourists, just locals and long-term foreign residents. Every place was open, no one wore masks. We partied constantly. It was incredibly cheap and felt like a hidden gem. I got so drunk twice that I blacked out—both times in San Cristobal. That's how intensely I lived there.
+
+People were open-minded, thinking differently. The lifestyles I witnessed there were the most unconventional I'd ever seen. It was fascinating.
+
+This first period lasted about 2.5 to 3 months. There's so much more to tell about my second and third visits, but those are for another time. Eventually I left to visit beaches—heading toward Cancun and Tulum—but San Cristobal never left me. I keep returning.
+
+[GPT evaluation]
+Merhaba, ben Alihan. San Cristobal de las Casas, hayatımda en özel yeri kaplayan, en uzun süre kaldığım ve en yoğun deneyimler yaşadığım yer. İnsanlarla kurduğum bağlar burada çok derindi; hâlâ kimi arkadaşlarımla iletişimdeyim. Burada öğrendiğim şeyler, hayatımda yaptığım değişikliklerin çoğunun başlangıç noktası oldu. Yoga, ruhsal arayışlar — hepsi burada başladı.
+
+San Cristobal, benim için sadece bir seyahat noktası değil, aynı zamanda kendimi yeniden keşfettiğim bir yer. Buradaki deneyimlerim, kendimi en iyi hissettiğim anların sayısını artırdı. Yediğim en lezzetli peynir ve ekmek de burada; burada tanıştığım insanlar ise benim hayatımda önemli izler bıraktı. Her dönüşümde, ihtiyacım olanı buldum ve burası bana hep şifa verdi. 
+
+Covid döneminde oraya gidip, yerel halkla iç içe olmak bana farklı bir sosyal çevre kazandırdı. Birçok insanla tanıştım; onların hayat hikayeleri, farklı yaşam tarzları beni derinden etkiledi. Kimisi bana sağlıklı yaşamı, yemek yapmayı öğretirken, diğerleriyle ruhsal deneyimlere daldım. 
+
+Arkadaşlarımın hayatları birbirine bağlıydı. Şimdi bile onlarla iletişimde kalmak benim için önemli. Gezgin hayat tarzıyla dolu bir atmosferde bulundum; özgür ruhlar, farklı bakış açıları beni düşündürdü, öğrettiler. Gezi sırasında kurduğum dostluklar, sadece anlık keyifler değil, hayatımda kalıcı izler bırakan ilişkiler oldu. San Cristobal, sadece bir şehir değil; adeta hayatımın dönüm noktası. 
+
+Kendimi ifade edebileceğim, sosyal bağlantılar kurabileceğim yerler ararken, San Cristobal’in bana sunduğu bu alanı sıkça düşünüyorum. Burada yaşadıklarım, kim olduğumun ve kim olmak istediğimin özünü oluşturuyor. İleriki bölümde bu deneyimlerin derinliklerine inerek daha fazlasını paylaşmak istiyorum.

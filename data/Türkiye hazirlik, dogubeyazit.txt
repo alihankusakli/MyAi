@@ -1,0 +1,27 @@
+[Claude evaluation]
+# My Story: A Journey of Adventure and Self-Discovery
+
+When I returned to Turkey, it was Ramadan. I tried to plan carefully and created a route: to reach Thailand from Istanbul overland, without flying, passing through all the countries along the way by road. But there was a problem—money. I had to cut short my time in the Philippines because I ran out of funds. Now I wanted to do this adventure with essentially nothing, so I decided to save money first.
+
+My initial goal was to save $3,000 in six months, but I only managed $1,000 in eleven months. I realized this approach wouldn't work, so I made a bold decision: I took out a $3,200 credit from the bank, got a 36-month payment plan, and paid the first 10 installments upfront. This gave me about ten months to travel as far as my money would take me.
+
+I'm someone who acts on impulse and adapts quickly. On my first train journey in 2017—the Lake Van Express—I met people I'm still connected with on Facebook today. When circumstances pushed me toward Doğu Beyazıt instead of my planned route, I didn't hesitate. I hitchhiked for the first time in my life, something I wouldn't have done otherwise.
+
+I'm drawn to experiencing places authentically and connecting with locals. I appreciated the kindness of strangers—the Kurdish man who warned me about scams at the border, the Iranian boy named Muhammad who helped me navigate and bargained down my taxi fare from 15,000 to 3,000 riyals. I travel on minimal budgets, seeking the cheapest options, staying in hostels, and relying on the hospitality of others.
+
+I have a genuine appreciation for history and beauty—I was moved by Ishak Pasha Palace, despite its damaged roof. I noticed how the architecture was crafted with care. I'm also observant about culture and people; I see young Iranians, Turks, and others trying to travel within their means, each exploring their own world.
+
+I'm someone who makes decisions quickly, sometimes without complete information, and trusts that things will work out. I'm adaptable, curious about different cultures, and willing to take calculated risks for experiences. My journey isn't just about moving from place to place—it's about pushing my boundaries and understanding the world and myself better.
+
+[GPT evaluation]
+Benim adım Alihan. Hayatımda birçok macera yaşadım ve her birinden önemli dersler çıkararak büyüdüm. Ramazan ayı sırasında Türkiye'ye döndüğümde, hayallerimle dolu bir rotaya çıkmayı planladım. Ama para sorunu, tüm hayallerimin önünde bir engel oldu. Zamanla anladım ki hayal ettiğim macerayı yaşamak için akılcı çözümler bulmam gerekiyordu. 
+
+Kendime hedefler koymayı seviyorum; mesela 3.000 dolar biriktirme hedefim vardı. Belirlediğim sürede bunu başaramadım ama pes etmedim. Sonunda bir kredi çekip sırt çantama atarak yola çıktım. Bu aşamada, bir yandan finansal sorumluluğumu yerine getirirken, diğer yandan macera ruhumu da tatmin etmeye çalıştım. 
+
+Yola çıktığımda tanıştığım insanlar, yolculuğuma anlam kattı. Onlarla olan etkileşimlerim, dünya üzerindeki farklı yaşam biçimlerini görmemi sağladı. Mesela Doğu Beyazıt’ta karşılaştığım bir yolcu, benim için sadece bir ulaşım aracı değil, aynı zamanda bir dost oldu. Bu tür karşılaşmalar, hayatımın zenginliğini artırdı. 
+
+Yolculuk esnasında görüştüğüm İranlı gençler, onların kendi kültürlerinde keşfettikleri yollarla gezmeyi sevdiklerini gösterdi. Bu benim için bir ayna oldu; farklı kültürlere ve yaşam stiline olan merakım arttı. Hayatımın bu döneminde, macera ruhum ön plandaydı ve bunun getirdiği deneyimler benim kişiliğimi daha fazla şekillendirdi. 
+
+Yolda kalmanın zorlukları, karşılaştığım engeller beni yıldırmadı; aksine mücadeleci bir ruh geliştirmemi sağladı. Bu süreçte hem eğlendim hem de öğrenecek çok şeyim olduğunu fark ettim. Hayata karşı ikili bir yaklaşımım var: bir yandan özgürlüğe değer veriyorum, diğer yandan da sorumluluklarımı unutmuyorum. Gezi planlarım ve yaşadıklarım, beni daha meraklı, anlayışlı ve karşıma çıkan her durumu değerlendirmeye açık biri haline getirdi. 
+
+Sonuç olarak, benim dünyam sürekli değişiyor; yeni yerler gördükçe, yeni düşünceler ve insanlar tanıdıkça, perspektifim de genişliyor. Hayatı dolu dolu yaşamak için her fırsatı değerlendiriyorum.

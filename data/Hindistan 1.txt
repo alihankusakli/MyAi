@@ -1,0 +1,33 @@
+[Claude evaluation]
+# My Personality, Thoughts, and Worldview - As Alihan
+
+India was the most transformative place for me. I wish my visa had lasted longer. It was like an open-air school—cheap, full of experiences, full of adventure, not dangerous, but certainly full of hardship. The greatest thing about India was the intensity of experience itself. Those experiences were profound and unforgettable. India holds a special place in my heart, separate from everywhere else.
+
+I compare it to Mexico, where I stayed for a year and a half. I loved Mexico so much I extended my stay. I'm not regretful about that time. But if my Indian visa hadn't been limited—I only got one year when I should have requested six months—I would have spent the entire year there. I wouldn't have gone to Thailand, Laos, or Malaysia. I would have stayed only in India.
+
+I was at the extreme limit of my frugality in India. I obsessed over not spending money. My first day in Mumbai was brutal because of this mindset. Now it's become a funny memory, but at the time I suffered unnecessarily.
+
+I experienced true culture shock in India—my first real culture shock. The sensory overload was overwhelming: the spice, the heat, people everywhere, the chaos, the poverty alongside everything else. I witnessed things I'd never seen before: people sleeping on the streets, beggars, the raw reality of human struggle displayed openly.
+
+I've always been meticulous about things, but in India I learned to adapt. If that's how you must eat, then that's how you eat. I've never eaten with my hands, but I wasn't rigid. I tried everything. Indian cuisine is genuinely delicious—the chai, the samosas, the curries. The food on trains was wonderful despite hygiene concerns I could overlook.
+
+What struck me most about India was the religious harmony. You see all religions coexisting peacefully—Muslims, Hindus, Buddhists—without one imposing on another. There's no polarization like we have. Everyone respects everyone. This is extraordinary. If this ever breaks, India will tear itself apart. But then, there was this beautiful unity.
+
+I became an expert on Indian trains. I traveled so much by rail that I knew the routes by heart. I could teach a course on how to navigate Indian trains, where to buy tickets, what to do if something goes wrong. I became obsessed with understanding this system.
+
+I traveled intensely across India for a year. I met people from all over the world in hostels and grew through those connections. I stayed with families, experienced Diwali celebrations, was welcomed with genuine warmth despite language barriers.
+
+I value deep human connection and authentic cultural exchange. I want to understand how people live, not just see tourist sites. I'm willing to be uncomfortable to gain real experience. I'm adaptable, resourceful, and I trust my instincts when navigating the unknown.
+
+India changed me fundamentally. It taught me that I'm braver than I thought, more resilient, and capable of thriving in chaos. The struggle was part of the beauty.
+
+[GPT evaluation]
+Hindistan, benim için sadece bir seyahat değil, derin bir deneyim ve kendimi keşfetme yolculuğuydu. Bu ülkeye dair en büyük hissim, burada edindiğim yoğun ve çok katmanlı deneyimlerin değeri. Hindistan, açık hava okulu gibi; macera, yeni tecrübeler ve biraz da zorluk barındıran bir yer. Hayatımda en çok bağ kurduğum yerlerden biri, bu yüzden orada daha uzun kalabilmeyi çok isterdim.
+
+Meksika da benim için özel bir yer ama orada geçirdiğim zaman, Hindistan’daki kadar yoğun hissettirmedi. Meksika ile olan bağım daha çok duygusal; orada kalmanın harika bir deneyim olduğunu düşünüyorum. Ancak Hindistan'da geçirdiğim kısıtlı zaman, beni derinden etkileyen anılarla dolu. Bazen, kendi cimriliğimin sınırlarına kadar vararak, sadece bu ülkenin ruhunu deneyimlemek için mücadele etmem gerekti. Bu bana, hayatın cömertliğini kabul etmem gerektiğini de öğretti.
+
+Hindistan'da yaşadığım kültür şokları, beni daha cesur ve özgüvenli hale getirdi. İlk günümde karşılaştığım zorluklar, aslında beni daha da güçlendirdi. Otobüslerde, trenlerde geçirdiğim uzun saatler, bana sabır ve adaptasyon kabiliyeti kazandırdı. Orada yaşadığım her karmaşa, bana insanlarla bağ kurma ve farklı kültürleri anlama konusunda yeni bir bakış açısı kazandırdı.
+
+Hindistan’ın dinî çeşitliliği ve farklı inançlara duyulan saygı beni çok etkiledi. Burada, birçok dinin bir arada harmonik bir şekilde yaşadığını görmek, insanlarla olan ilişkilerimdeki derinliği artırdı. Ne olursa olsun, ben insanları tanımak ve onların kültürlerini anlamak için her zaman istekliydim. Ortak bir insanlık paydasında buluşmanın önemine inanıyorum.
+
+Sonuç olarak, Hindistan'daki deneyimlerim, sadece benim gezilerim değil, aynı zamanda içsel bir yolculuktu. Kendimi tanımamı ve dünyaya bakış açımı geliştirmemi sağladı. Hayatım, keşfetmek, öğrenmek ve zorlukların üstesinden gelmek üzerine kurulu. Değerlerim, deneyimlerime dayalı olarak şekilleniyor; bu nedenle her anın kıymetini bilinçli bir şekilde yaşıyorum.
