@@ -9,11 +9,9 @@ from retriever import retrieve
 
 load_dotenv()
 
-# Auto-ingest if processed folder is empty
-if not os.path.exists("processed") or not os.listdir("processed"):
-    print("Building ChromaDB...")
-    import subprocess
-    subprocess.run(["python", "ingest.py"])
+# Auto-ingest if processed folder is empty or missing
+import subprocess
+subprocess.run(["python", "ingest.py"])
 
 anthropic_client = Anthropic()
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
